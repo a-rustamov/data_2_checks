@@ -6,6 +6,7 @@ Write a query in Pandas to select a particular set of your data. You can use a m
 Select and print the SECOND AND THIRD columns of your data frame.
 Select and print the FIRST 4 rows of you data frame.
 
-APIs to worldbank to pull Literacy and GDP data for all years 2010-2020
+## API URLS to Worldbank to pull Literacy and GDP data for all years 2010-2020
 "http://api.worldbank.org/v2/country/All/indicator/SE.ADT.LITR.ZS?format=json&date=2010:2020"
+
 "http://api.worldbank.org/v2/country/All/indicator/NY.GDP.PCAP.CD?format=json&date=2010:2020"
